@@ -47,6 +47,9 @@ Before running the server, ensure that you have the necessary tools installed:
 
 If you encounter any issues, refer to the troubleshooting section in the README or check the error messages during server execution.
 
+## Source 
+Find the Video explanation from Bek Brace on [YouTube](https://www.youtube.com/watch?v=set7R_bHG_k).
+
 ## Acknowledgments
 
 - Mention any acknowledgments or credits to external libraries, resources, or individuals if applicable.
